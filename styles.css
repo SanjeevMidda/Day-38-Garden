@@ -1,0 +1,34 @@
+* {
+    margin:0px;
+    font-family: Helvetica, sans-serif;
+}
+
+.main-background {
+    background-image: url("img/daniel-o-dowd-3ODJ3CeHlUo-unsplash.jpg");
+    background-size:cover;
+    width: 1300px;
+    height: 640px;
+    margin: 0 auto;
+    /* height:700px; */
+    
+}
+
+.navigation ul li {
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.navbar h1 {
+text-align: center;
+margin-top: 30px;
+}
+
+.navigation {
+    width: fit-content;
+    margin-left: 530px;
+    margin-top: 15px;
+}
